@@ -1,4 +1,4 @@
-# 📊 Mohammed Azu | Lead Analyst
+# 📊 Mohammed Azarudeen | Lead Analyst
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Lead%20Analyst-blue?style=for-the-badge" />
@@ -18,14 +18,6 @@
 | **Data Querying** | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
 | **Advanced Excel** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) (VBA, Power Query, Pivot Tables) |
-
----
-
-### 📈 GitHub Statistics
-*These stats update automatically to show my activity and coding habits.*
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedazu786&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazu786&layout=compact&theme=radical)
 
 ---
 
